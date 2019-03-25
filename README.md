@@ -1,7 +1,7 @@
 # orderBoard
 Live Order Board Application
 
-###To run application:
+### To run application:
 - Build docker image
 `./gradlew dockerBuildImage`  this should build docker image named *deepankurtyagi-order*
 
