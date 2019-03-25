@@ -5,7 +5,7 @@ Live Order Board Application
 - Build docker image
 `./gradlew dockerBuildImage`  this should build docker image named *deepankurtyagi-order*
 
-- Run Docker container
+- Run docker container
 `docker run  deepankurtyagi-order`
 
 *App doesn't have any persistance layer, sample order stored in memory will be printed in the console.*
